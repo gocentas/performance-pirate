@@ -1,0 +1,3 @@
+[submodule "themes/osprey-delight"]
+	path = themes/hugo-winston-theme
+	url = "https://github.com/zerostaticthemes/hugo-winston-theme.git"
