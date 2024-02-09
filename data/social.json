@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "contact",
+      "url": "mailto:hello@performancepirate.com",
+      "image": "images/social/mail-fill.svg"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/gocentas_",
+      "image": "images/social/twitter-x-fill.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/gocentas",
+      "image": "images/social/linkedin-box-fill.svg"
+    }
+  ]
+}
