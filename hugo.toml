@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "performancepirate.com"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"

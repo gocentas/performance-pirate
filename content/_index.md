@@ -1,6 +1,8 @@
 ---
-title: You don't start out writing good stuff
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: How did you get all of that done so fast?!
+description: Applied generative AI for B2B SaaS marketers
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+You've built the foundations, you've got a great product, but marketing? It takes so much time to do well.
+
+Learn how to use generative AI, automation, and other tech to get recurring marketing tasks out of the way quickly. Escape the grind and make others wonder how you pulled it all off.
