@@ -1,6 +1,6 @@
 ---
 title: How did you get all of that done so fast?!
-description: Applied generative AI for B2B SaaS marketers
+description: Applied generative AI for marketers in tech startups
 ---
 
 You've built the foundations, you've got a great product, but marketing? It takes so much time to do well.
